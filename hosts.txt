@@ -1,0 +1,10 @@
+#Block Plex tracking
+
+media.plex.tv
+analytics.plex.tv
+
+#Block the .zip TLD
+
+(\.|^)zip$
+
+
