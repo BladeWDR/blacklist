@@ -3,9 +3,9 @@
 media.plex.tv
 analytics.plex.tv
 
-#Block .zip TLD
+#Block .zip and .tk TLD
 
 ||.zip^
-
+||.tk^
 
 
